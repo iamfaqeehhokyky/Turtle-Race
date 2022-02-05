@@ -17,5 +17,5 @@ Use any Python online compiler of download python IDE from https://www.python.or
 Just run
 
 ```sh
-python tic_tac_toe.py
+python turtle_race.py
 ```
