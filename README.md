@@ -19,3 +19,9 @@ Just run
 ```sh
 python turtle_race.py
 ```
+
+## Steps
+![image](https://user-images.githubusercontent.com/73473767/152662103-c3bcbd65-d499-40eb-932d-f773a2cb9811.png)
+
+![image](https://user-images.githubusercontent.com/73473767/152662119-acb94aaa-23d7-46de-8dc3-066f1261aa4c.png)
+
